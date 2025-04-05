@@ -3,16 +3,16 @@
 **Recruiters, HR managers, and talent acquisition specialists** often need to quickly assess a developer's skills by searching their GitHub READMEs for relevant keywords, a process hindered by manual searching or complex GitHub search syntax. This micro-app simplifies the search by allowing them to enter a GitHub username and keyword to instantly find relevant repositories.
 
 ## Usage
-
+**Download** the `index.html` file. You have two main options:
 1.  * **Downloading as a ZIP file (easier for most users):**
         * Go to the main page of the repository: [https://github.com/lzrdGreen/GitHub-README-Keyword-Search](https://github.com/lzrdGreen/GitHub-README-Keyword-Search) (replace with the actual URL if different).
         * Look for a **green button** labeled "**Code**". Click on it.
         * In the dropdown menu, select "**Download ZIP**".
         * Once the ZIP file is downloaded, extract its contents. You will find the `index.html` file inside.
-    **Download** the `index.html` file. You have two main options:
+    
     * **Using Git (if you have it installed):** Open your command prompt or terminal and type:
         ```bash
-        git clone [https://github.com/lzrdGreen/GitHub-README-Keyword-Search.git](https://github.com/lzrdGreen/GitHub-README-Keyword-Search.git)
+        git clone https://github.com/lzrdGreen/GitHub-README-Keyword-Search.git
         ```
         This will create a folder named `GitHub-README-Keyword-Search` containing the `index.html` file.
 
