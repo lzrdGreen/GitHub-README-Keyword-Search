@@ -5,8 +5,7 @@
 ## Usage
 **Download** the `index.html` file. You have two main options:
 1.  * **Downloading as a ZIP file (easier for most users):**
-        * Go to the main page of the repository: [https://github.com/lzrdGreen/GitHub-README-Keyword-Search](https://github.com/lzrdGreen/GitHub-README-Keyword-Search) (replace with the actual URL if different).
-        * Look for a **green button** labeled "**Code**". Click on it.
+        * Look for a **green button** labeled "**Code**" on this page - it is in the top section. Click on it.
         * In the dropdown menu, select "**Download ZIP**".
         * Once the ZIP file is downloaded, extract its contents. You will find the `index.html` file inside.
     
@@ -22,11 +21,7 @@
     * In the left sidebar, scroll down and find "**Developer settings**". Click on it.
     * Click on "**Personal access tokens**".
     * Click on "**Fine-grained tokens**".
-    * Next to "**Fine-grained personal access tokens**", click the button "**Generate new token**".
-    * Give your token a descriptive name (e.g., "GitHub README Search App").
-    * Under "**Repository access**", select "**Only select repositories**" and then choose the repository where you have the `index.html` file (this is a security best practice, though for this app, it might not be strictly necessary if you're only searching public repos. You can also choose "All repositories" for simplicity).
-    * Under "**Permissions**", find the "**Contents**" section and make sure "**Read**" permission is selected.
-    * Scroll down and click the "**Generate token**" button at the bottom.
+    * Next to "**Fine-grained personal access tokens**", click the button "**Generate new token**". Follow the steps.
     * **Copy the generated token** immediately and store it somewhere safe. You won't be able to see it again.
 
 3.  **Open** the `index.html` file in a simple text editor (like Notepad on Windows, TextEdit on Mac, VS Code, Sublime Text, etc.).
